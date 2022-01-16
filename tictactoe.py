@@ -1,3 +1,8 @@
+'''
+Tic-Tac-Toe: A Solution
+Author: Bro. Akomabou
+'''
+
 
 def main():
     player = next_player("")
