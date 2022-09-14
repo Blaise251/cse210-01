@@ -1,6 +1,6 @@
 '''
 Tic-Tac-Toe: A Solution
-Author: Bro. Akomabou
+Author: Bro. Blaise
 '''
 
 
